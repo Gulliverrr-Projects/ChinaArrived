@@ -1,5 +1,5 @@
 # ChinaArrived
-I tend to get loads of little jiffy bags every other day delivered at work from my beloved Chinese eBay sellers for 0.99GBP. To save my colleagues from skyping/calling/walking over my desk just to let me know I got mail, I made this IoT gadget that saves them the trouble and keep me notified without moving away from my desk.
+I tend to get loads of little jiffy bags every other day delivered at work from my beloved Chinese eBay sellers for 0.99GBP. To save my colleagues from skyping/calling/walking over to my desk just to let me know I got mail, I made this IoT gadget that saves them the trouble and keep me notified without moving away from my desk.
 
 It is a set of two parts. One is a box with a switch on the bottom. Whenever you put any (jiffy bag) in it, the button is pressed. The box is located where the mailman comes in.
 The other part is a tiny USB powered alert thingie with an LED and is located at my desk (powered directly from my monitor's USB port)
