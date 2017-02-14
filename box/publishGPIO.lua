@@ -44,8 +44,8 @@ conn2:connect(80,'184.106.153.149')
 end
 
 function updateGPIO(payload)
-print("Checking in 5 sec...")
-tmr.delay(5000000)
+print("Checking in 30 sec...")
+tmr.delay(30000000)
 pinstate = gpio.read(pin)
 if pinstate==1 then notpinstate=0 end
 if pinstate==0 then notpinstate=1 end
