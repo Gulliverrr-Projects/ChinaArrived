@@ -1,8 +1,9 @@
 --BOX MODULE
 --init.lua
---GPIO2 : ID4
-pin=4
-print("----Setting GPIO2 (ID 4) as INPUT...----")
+--GPIO2 : ID4 pin=4
+--GPIO4 : ID2 pin=2
+pin=2
+print("----Setting pin"..pin.." as INPUT...----")
 gpio.mode(pin, gpio.INPUT, gpio.PULLUP)
 
 --gpio.trig(pin,"both",function() dofile("publishGPIO.lua") end)
